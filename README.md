@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-![Profile views](https://gpvc.arturio.dev/CamelBoss)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CamelBoss&count_private=true&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+![Profile views](https://gpvc.arturio.dev/CamelBoss)<br>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CamelBoss&count_private=true&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CamelBoss&count_private=true&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **CamelBoss/CamelBoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
