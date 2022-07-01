@@ -3,6 +3,11 @@
 ![Profile views](https://gpvc.arturio.dev/CamelBoss)[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)<br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CamelBoss&count_private=true&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)[![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)[![Photoshop](https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000)](https://www.photoshop.com/)<br>
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CamelBoss&count_private=true&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+<h1>Check my Social's</h1>
+Instagram: CamelBoss
+Snapchat: CamelBoss
+Discord:
+LinkedIn:
 
 <!--
 **CamelBoss/CamelBoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
