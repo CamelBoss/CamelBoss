@@ -10,7 +10,7 @@
 Instagram: <a href="https://www.instagram.com/camel.boss/">CamelBoss</a><br>
 Snapchat: CamelBoss<br>
 Discord: CamelBoss#3251<br>
-LinkedIn:<a href="https://www.linkedin.com/in/tomasz-rados-87b87b16a/">Tomasz Rados</a><br>
+LinkedIn: <a href="https://www.linkedin.com/in/tomasz-rados-87b87b16a/">Tomasz Rados</a><br>
 
 <!--
 **CamelBoss/CamelBoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
